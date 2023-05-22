@@ -1,4 +1,6 @@
 # data-mining-final-project
+# Final Writeup
+[PDF Link](https://github.com/amal-kadri/Education-Outlier-Analysis/blob/main/report.pdf)
 
 # Data Sources
 1. EdGap: https://www.edgap.org/
